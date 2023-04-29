@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Test1Fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0EFBA9"
+    android:textAlignment="center"
+    tools:context=".Fragments.TestFragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="265dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center|top"
+
+
+        android:text="Fragment 1"
+        android:textAlignment="center"
+        android:textColor="#D11111"
+        android:textSize="34sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    </LinearLayout>
+</FrameLayout>
