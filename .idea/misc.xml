@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/drawable/round.xml" value="0.1" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_book_appointment.xml" value="0.2" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_registration.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_thanks.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/activity_your_appointments.xml" value="0.25" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/fragment_first.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/fragment_test.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Sanket/AndroidStudioProjects/OptiiMind/app/src/main/res/layout/fragment_test2.xml" value="0.22826086956521738" />
